@@ -68,6 +68,8 @@ rules:
   - RULE-SET,Emby,Emby服务
   - RULE-SET,BiliBili,哔哩哔哩
   - RULE-SET,Bahamut,哔哩哔哩
+  - DOMAIN-SUFFIX,ahhhhfs.com,国际媒体
+  - DOMAIN-SUFFIX,leijing1.com,国际媒体
   - RULE-SET,GlobalMedia,国际媒体
   - RULE-SET,Apple,苹果服务
   - RULE-SET,Github,全球加速
