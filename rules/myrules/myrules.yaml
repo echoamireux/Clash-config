@@ -7,4 +7,4 @@
 # PROCESS-NAME: 0
 # TOTAL: 1
 payload:
-  - DOMAIN-SUFFIX,ahhhhfs.com
+  # - DOMAIN-SUFFIX,ahhhhfs.com
