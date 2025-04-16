@@ -59,6 +59,7 @@ rule-providers:
 # 分流Policy 
 rules:
   - RULE-SET,AdBlock,AdBlock
+  - DOMAIN-SUFFIX,orb.local,DIRECT
   - RULE-SET,OpenAi,AI服务
   - RULE-SET,Emby,Emby服务
   - RULE-SET,BiliBili,哔哩哔哩
