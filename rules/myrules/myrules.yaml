@@ -3,8 +3,11 @@
 # UPDATED: 2025-04-15
 # DOMAIN: 0
 # DOMAIN-SUFFIX: 1
-# IP-CIDR: 0
+# IP-CIDR: 1
 # PROCESS-NAME: 0
 # TOTAL: 1
 payload:
   # - DOMAIN-SUFFIX,ahhhhfs.com
+- DOMAIN-SUFFIX,charlesproxy.com,DIRECT  # 放行 Charles 的域名
+- DOMAIN-KEYWORD,charles,DIRECT           # 放行所有含 "charles" 的域名
+- IP-CIDR,127.0.0.1/32,DIRECT             # 放行本地回环地址（Charles 代理）
