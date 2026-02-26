@@ -1,0 +1,11 @@
+# NAME: my_direct
+# AUTHOR: echo
+# UPDATED: 2026-02-26
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 1
+# IP-CIDR: 0
+# PROCESS-NAME: 0
+# TOTAL: 1
+payload:
+  - DOMAIN-SUFFIX,mgtv.ottiptv.cc
+  - DOMAIN-SUFFIX,live.ottiptv.cc
