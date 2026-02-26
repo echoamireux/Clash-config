@@ -69,6 +69,10 @@ rule-providers:
 rules:
   - RULE-SET,MyDirect,DIRECT
   - RULE-SET,AdBlock,AdBlock
+  - RULE-SET,Direct,DIRECT
+  - RULE-SET,Lan,DIRECT
+  - RULE-SET,Download,DIRECT
+  - RULE-SET,ChinaIP,DIRECT
   - RULE-SET,OpenAi,AI服务
   - RULE-SET,Emby,Emby服务
   - RULE-SET,BiliBili,哔哩哔哩
@@ -83,9 +87,5 @@ rules:
   - RULE-SET,Twitter,推特服务
   - RULE-SET,Game,游戏平台
   - RULE-SET,ProxyLite,全球加速
-  - RULE-SET,ChinaIP,DIRECT
-  - RULE-SET,Direct,DIRECT
-  - RULE-SET,Lan,DIRECT
-  - RULE-SET,Download,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,兜底分流
