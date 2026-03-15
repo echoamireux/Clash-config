@@ -2,13 +2,14 @@
 # AUTHOR: echo
 # UPDATED: 2025-04-15
 # DOMAIN: 0
-# DOMAIN-SUFFIX: 1
+# DOMAIN-SUFFIX: 5
 # IP-CIDR: 1
 # PROCESS-NAME: 0
-# TOTAL: 1
+# TOTAL: 5
 payload:
 #- DOMAIN-SUFFIX,ahhhhfs.com
 - DOMAIN,play-edge.itunes.apple.com
 - DOMAIN,known-issues.apple.com
 - DOMAIN,hls-amt.itunes.apple.com
 - DOMAIN,linear.tv.apple.com
+- DOMAIN,7pal.short.gy
