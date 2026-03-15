@@ -7,4 +7,8 @@
 # PROCESS-NAME: 0
 # TOTAL: 1
 payload:
-  # - DOMAIN-SUFFIX,ahhhhfs.com
+#- DOMAIN-SUFFIX,ahhhhfs.com
+- DOMAIN,play-edge.itunes.apple.com
+- DOMAIN,known-issues.apple.com
+- DOMAIN,hls-amt.itunes.apple.com
+- DOMAIN,linear.tv.apple.com
