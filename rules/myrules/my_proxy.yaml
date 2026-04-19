@@ -1,11 +1,11 @@
 # NAME: my_proxy
 # AUTHOR: echo
-# UPDATED: 2025-04-15
+# UPDATED: 2026-04-19
 # DOMAIN: 0
-# DOMAIN-SUFFIX: 5
+# DOMAIN-SUFFIX: 6
 # IP-CIDR: 1
 # PROCESS-NAME: 0
-# TOTAL: 5
+# TOTAL: 6
 payload:
 #- DOMAIN-SUFFIX,ahhhhfs.com
 - DOMAIN,play-edge.itunes.apple.com
@@ -13,3 +13,4 @@ payload:
 - DOMAIN,hls-amt.itunes.apple.com
 - DOMAIN,linear.tv.apple.com
 - DOMAIN,7pal.short.gy
+  - DOMAIN-SUFFIX,linux.do

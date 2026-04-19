@@ -2,13 +2,12 @@
 # AUTHOR: echo
 # UPDATED: 2026-04-19
 # DOMAIN: 0
-# DOMAIN-SUFFIX: 5
+# DOMAIN-SUFFIX: 4
 # IP-CIDR: 0
 # PROCESS-NAME: 0
-# TOTAL: 5
+# TOTAL: 4
 payload:
   - DOMAIN-SUFFIX,mgtv.ottiptv.cc
   - DOMAIN-SUFFIX,live.ottiptv.cc
   - DOMAIN-SUFFIX,goodiptv.club
-  - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,iyf.lv
