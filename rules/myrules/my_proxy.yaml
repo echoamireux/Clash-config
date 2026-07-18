@@ -13,4 +13,4 @@ payload:
 - DOMAIN,hls-amt.itunes.apple.com
 - DOMAIN,linear.tv.apple.com
 - DOMAIN,7pal.short.gy
-  - DOMAIN-SUFFIX,linux.do
+- DOMAIN-SUFFIX,linux.do
