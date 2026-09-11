@@ -1,11 +1,11 @@
 # NAME: my_direct
 # AUTHOR: echo
-# UPDATED: 2026-07-26
+# UPDATED: 2026-09-11
 # DOMAIN: 0
-# DOMAIN-SUFFIX: 6
+# DOMAIN-SUFFIX: 7
 # IP-CIDR: 0
 # PROCESS-NAME: 0
-# TOTAL: 6
+# TOTAL: 7
 payload:
   - DOMAIN-SUFFIX,mgtv.ottiptv.cc
   - DOMAIN-SUFFIX,live.ottiptv.cc
@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,iyf.lv
   - DOMAIN-SUFFIX,muyuan.do
   - DOMAIN-SUFFIX,jianzhile.vip
+  - DOMAIN-SUFFIX,luketv.tv
