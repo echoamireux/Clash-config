@@ -3,6 +3,7 @@ name: |-
   Echo自用配置
 desc: |-
   Echo自用MihomoParty配置，支持手动选择、自动测速、广告屏蔽等
+category: '配置'
 icon: |-
   https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/120px/KeLee.png
 
