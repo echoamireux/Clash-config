@@ -1,16 +1,34 @@
 # NAME: my_proxy
 # AUTHOR: echo
-# UPDATED: 2026-07-26
+# UPDATED: 2026-11-20
 # DOMAIN: 5
-# DOMAIN-SUFFIX: 1
-# IP-CIDR: 0
+# DOMAIN-SUFFIX: 16
+# DOMAIN-KEYWORD: 1
+# IP-CIDR: 2
 # PROCESS-NAME: 0
-# TOTAL: 6
+# TOTAL: 24
 payload:
-#- DOMAIN-SUFFIX,ahhhhfs.com
 - DOMAIN,play-edge.itunes.apple.com
 - DOMAIN,known-issues.apple.com
 - DOMAIN,hls-amt.itunes.apple.com
 - DOMAIN,linear.tv.apple.com
 - DOMAIN,7pal.short.gy
 - DOMAIN-SUFFIX,linux.do
+- DOMAIN-SUFFIX,emby.wtf
+- DOMAIN-SUFFIX,events.waastudios.dpdns.org
+- DOMAIN-SUFFIX,tgbot-sub.sharewithyou.dpdns.org
+- DOMAIN-SUFFIX,iptv.yang-1989.xyz
+- DOMAIN-SUFFIX,card.779.chat
+- DOMAIN-SUFFIX,ghproxy.net
+- DOMAIN-SUFFIX,githubusercontent.com
+- DOMAIN-SUFFIX,slack-msgs.com
+- DOMAIN-SUFFIX,slack-edge.com
+- DOMAIN-SUFFIX,slack-core.com
+- DOMAIN-SUFFIX,slack.com
+- DOMAIN-SUFFIX,api.68886888.xyz
+- DOMAIN-SUFFIX,emby.as174.de
+- DOMAIN-SUFFIX,dzmm.ai
+- DOMAIN-SUFFIX,ahhhhfs.com
+- IP-CIDR,199.245.176.43/32
+- IP-CIDR,206.212.244.23/32
+- DOMAIN-KEYWORD,drift

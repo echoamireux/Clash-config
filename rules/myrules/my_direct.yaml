@@ -1,12 +1,12 @@
 # NAME: my_direct
 # AUTHOR: echo
-# UPDATED: 2026-11-15
+# UPDATED: 2026-11-20
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 8
+# DOMAIN-SUFFIX: 16
 # DOMAIN-KEYWORD: 0
-# IP-CIDR: 0
+# IP-CIDR: 1
 # PROCESS-NAME: 0
-# TOTAL: 10
+# TOTAL: 18
 payload:
   - DOMAIN-SUFFIX,mgtv.ottiptv.cc
   - DOMAIN-SUFFIX,live.ottiptv.cc
@@ -18,3 +18,11 @@ payload:
   - DOMAIN,garysclub.sharewithyou.dpdns.org
   - DOMAIN-SUFFIX,emby.bbqwq.com
   - DOMAIN-SUFFIX,live-video.net
+  - DOMAIN-SUFFIX,5721004.xyz
+  - DOMAIN-SUFFIX,new.sharedchat.cc
+  - IP-CIDR,100.64.0.0/10
+  - DOMAIN-SUFFIX,app.raindrop.io
+  - DOMAIN-SUFFIX,media.doven.tv
+  - DOMAIN-SUFFIX,emby1.liustar.click
+  - DOMAIN-SUFFIX,hxd.as174.de
+  - DOMAIN-SUFFIX,micu.hk

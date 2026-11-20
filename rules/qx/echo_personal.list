@@ -1,0 +1,54 @@
+# Echo Quantumult X filter rules.
+# Native QX format: rule-type, value, policy.
+# This file is the union of Echo personal rules and the two Clash providers.
+# Keep author-provided rules in echo.conf; do not add force-policy to this resource.
+
+# Direct
+host-suffix, emby.bbqwq.com, direct
+host-suffix, 5721004.xyz, direct
+host-suffix, live-video.net, direct
+host-suffix, muyuan.do, direct
+host-suffix, new.sharedchat.cc, direct
+host-suffix, iyf.lv, direct
+host-suffix, jianzhile.vip, direct
+host-suffix, luketv.tv, direct
+host, garysclub.sharewithyou.dpdns.org, direct
+ip-cidr, 100.64.0.0/10, direct
+host-suffix, goodiptv.club, direct
+host-suffix, mgtv.ottiptv.cc, direct
+host-suffix, live.ottiptv.cc, direct
+host-suffix, app.raindrop.io, direct
+host-suffix, media.doven.tv, direct
+host-suffix, emby1.liustar.click, direct
+host-suffix, hxd.as174.de, direct
+host-suffix, micu.hk, direct
+
+# Proxy
+ip-cidr, 199.245.176.43/32, proxy
+host-suffix, events.waastudios.dpdns.org, proxy
+ip-cidr, 206.212.244.23/32, proxy
+host-suffix, tgbot-sub.sharewithyou.dpdns.org, proxy
+host-suffix, iptv.yang-1989.xyz, proxy
+host-suffix, emby.wtf, proxy
+host-suffix, linux.do, 国际媒体
+
+# US nodes
+host-suffix, card.779.chat, 美国节点
+host-suffix, 7pal.short.gy, 美国节点
+host-suffix, linear.tv.apple.com, 美国节点
+host-suffix, hls-amt.itunes.apple.com, 美国节点
+host-suffix, known-issues.apple.com, 美国节点
+host-suffix, play-edge.itunes.apple.com, 美国节点
+host-suffix, ghproxy.net, 美国节点
+host-suffix, githubusercontent.com, 美国节点
+host-suffix, slack-msgs.com, 美国节点
+host-suffix, slack-edge.com, 美国节点
+host-suffix, slack-core.com, 美国节点
+host-suffix, slack.com, 美国节点
+host-suffix, api.68886888.xyz, 美国节点
+host-suffix, emby.as174.de, 美国节点
+
+# Other policies
+host-suffix, dzmm.ai, 国际媒体
+host-suffix, ahhhhfs.com, 自动选择
+host-keyword, drift, 香港节点
